@@ -1,0 +1,25 @@
+#app{
+    border-style: solid;
+    border-color: black;
+    width: 70%;
+    text-align: center;
+}
+td{
+    height:32px;
+    width:32px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+.board{
+    display: inline-block;
+}
+.ship{
+    background-color: black;
+}
+.hit{
+    background-color: red;
+}
+.marked{
+    background-color: blue;
+}
